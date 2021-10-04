@@ -1,0 +1,16 @@
+C:\Projects\Console\MyInvestec\MyInvestec\MyInvestec\obj\Debug\net5.0\MyInvestec.csproj.AssemblyReference.cache
+C:\Projects\Console\MyInvestec\MyInvestec\MyInvestec\obj\Debug\net5.0\MyInvestec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Console\MyInvestec\MyInvestec\MyInvestec\obj\Debug\net5.0\MyInvestec.AssemblyInfoInputs.cache
+C:\Projects\Console\MyInvestec\MyInvestec\MyInvestec\obj\Debug\net5.0\MyInvestec.AssemblyInfo.cs
+C:\Projects\Console\MyInvestec\MyInvestec\MyInvestec\obj\Debug\net5.0\MyInvestec.csproj.CoreCompileInputs.cache
+C:\Projects\Console\MyInvestec\MyInvestec\MyInvestec\bin\Debug\net5.0\MyInvestec.exe
+C:\Projects\Console\MyInvestec\MyInvestec\MyInvestec\bin\Debug\net5.0\MyInvestec.deps.json
+C:\Projects\Console\MyInvestec\MyInvestec\MyInvestec\bin\Debug\net5.0\MyInvestec.runtimeconfig.json
+C:\Projects\Console\MyInvestec\MyInvestec\MyInvestec\bin\Debug\net5.0\MyInvestec.runtimeconfig.dev.json
+C:\Projects\Console\MyInvestec\MyInvestec\MyInvestec\bin\Debug\net5.0\MyInvestec.dll
+C:\Projects\Console\MyInvestec\MyInvestec\MyInvestec\bin\Debug\net5.0\ref\MyInvestec.dll
+C:\Projects\Console\MyInvestec\MyInvestec\MyInvestec\bin\Debug\net5.0\MyInvestec.pdb
+C:\Projects\Console\MyInvestec\MyInvestec\MyInvestec\obj\Debug\net5.0\MyInvestec.dll
+C:\Projects\Console\MyInvestec\MyInvestec\MyInvestec\obj\Debug\net5.0\ref\MyInvestec.dll
+C:\Projects\Console\MyInvestec\MyInvestec\MyInvestec\obj\Debug\net5.0\MyInvestec.pdb
+C:\Projects\Console\MyInvestec\MyInvestec\MyInvestec\obj\Debug\net5.0\MyInvestec.genruntimeconfig.cache
